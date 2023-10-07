@@ -6,7 +6,7 @@ This page is WIP, and I do not think this is a proper classification.
 ## Study
 
 - [Graphics Papers](https://github.com/GCL-Seminar/Awesome-Graphics-Papers)
-
+  - [15-769: Physically-based Animation of Solids and Fluids (F23)](https://www.cs.cmu.edu/~15769-f23/#resources): A good material for beginners.
 - [siyuan](https://github.com/siyuan-note/siyuan)
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 - [Typst](https://typst.app/)
